@@ -1,3 +1,9 @@
 body{
     font-family: sans-serif;
 }
+#board {
+    background-color: rgb(179, 102, 8);
+    height: 300px;
+    width: 300px;
+    color: #ddd;
+}
